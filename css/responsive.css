@@ -1,0 +1,464 @@
+@media screen and (max-width:1024px){
+  .home h1 {
+    font-size: 40px;
+    padding-bottom: 40px;
+}
+.home h3{
+  font-size: 18px;
+}
+.home h5{
+  font-size: 14px;
+}
+.homeGR h1 {
+  font-size: 40px;
+  padding-bottom: 40px;
+}
+.homeGR h3{
+font-size: 18px;
+}
+.homeGR h5{
+font-size: 14px;
+}
+
+.black .text{
+  font-size: 12px;
+}
+.black .text h3{
+  font-size: 20px;
+}
+
+.SERVICES .text h3{
+  font-size: 17px;
+}
+.SERVICES .text p{
+  font-size: 13px;
+}
+
+.CAUSES .card-title{
+  font-size: 13px;
+}
+.CAUSES .card-text{
+  font-size: 12px;
+}
+.DONORS .text i{
+  font-size: 20px;
+}
+.DONORS .text h2{
+  font-size: 15px;
+}
+.EVENT .card img{
+  padding: 10px;
+}
+.EVENT .card h5{
+  font-size: 15px;
+}
+.EVENT .card p{
+  font-size: 12px;
+}
+.Founder .text h2{
+  font-size: 28px;
+}
+.Founder .text p{
+  padding-top: 20px;
+  font-size: 14px;
+}
+.Mission .text h2{
+  font-size: 28px;
+}
+.Mission .text p{
+  padding-top: 20px;
+  font-size: 14px;
+}
+
+}
+
+@media screen and (max-width:768px){
+  .home h1{
+    margin-top: 100px;
+    font-size: 30px;
+  }
+  .home h3{
+    font-size: 16px;
+  }
+  .home h5{
+    font-size: 13px;
+  }
+  .home .btn{
+    margin-bottom: 30px;
+  }
+  .home #btn-1{
+    padding: 7px 25px;
+  }
+  .home #btn-2{
+    padding: 7px 25px;
+  }
+  .black .text h3 {
+  font-size: 17px;
+  }
+  .black .text p {
+  font-size: 10px;
+  }
+  .about .part1 h2{
+    font-size: 25px;
+    padding-top: 10px;
+    padding-right: 40px;
+    margin-right: 40px;
+    
+  }
+  .about p{
+    font-size: 13px;
+    line-height: 15px;
+  }
+  .SERVICES .part1 h2{
+    font-size: 25px;
+    padding-top: 10px;
+    padding-right: 40px;
+    margin-right: 40px;
+  }
+  .SERVICES .part1 p{
+    font-size: 13px;
+    line-height: 15px;
+  }
+  .SERVICES .text p{
+    font-size: 11px;
+  }
+  .poor .help p{
+    max-width: 90%;
+    margin: 35px auto
+  }
+  .poor .help button{
+    padding: 10px 25px;
+  }
+  .CAUSES .text h2{
+    font-size: 25px;
+    padding-top: 10px;
+    padding-right: 40px;
+    margin-right: 40px;
+    
+  }
+  .CAUSES .text p{
+    font-size: 13px;
+    line-height: 15px;
+  }
+  .CAUSES .card-title{
+    font-size: 11px;
+  }
+  .CAUSES .card-text{
+    font-size: 12px;
+    line-height: 15px;
+  }
+  .card .status{
+    font-size: 10px;
+  }
+  .GALLERY .text h2{
+    font-size: 25px;
+    padding-top: 10px;
+    padding-right: 40px;
+    margin-right: 40px;
+    
+  }
+  .GALLERY .text p{
+    font-size: 13px;
+    line-height: 15px;
+  }
+  .DONORS{
+    height: 75vh;
+  }
+  
+  .Team .text h2{
+    font-size: 25px;
+    padding-top: 10px;
+    padding-right: 40px;
+    margin-right: 40px;
+    
+  }
+  .Team .text p{
+    font-size: 13px;
+    line-height: 15px;
+  }
+  .EVENT{
+    padding: 20px 0 50px;
+  }
+  .EVENT .text h2{
+    font-size: 20px;
+    padding-top: 10px;
+    padding-right: 40px;
+    margin-right: 40px;
+    
+  }
+  .EVENT .text p{
+    font-size: 13px;
+    line-height: 15px;
+  }
+  .card-body{
+    padding-left:20px
+  }
+  .logos .col-sm-6{
+    padding: 40px;
+  }
+  .NEWS .text h2{
+    font-size: 20px;
+    padding-top: 10px;
+    padding-right: 40px;
+    margin-right: 40px;
+    
+  }
+  .NEWS .text p{
+    font-size: 13px;
+    line-height: 15px;
+  }
+
+  .NEWS .txt{
+    justify-content: start;
+  }
+  .card-body{
+    padding: 0;
+    padding-top: 20px;
+  }
+
+  .CONTACT .text h2{
+    font-size: 20px;
+    padding-top: 10px;
+    padding-right: 40px;
+    margin-right: 40px;
+    
+  }
+  .CONTACT .text p{
+    font-size: 13px;
+    line-height: 15px;
+  }
+  .Founder .text h2{
+    font-size: 23px;
+  }
+  .Founder .text p{
+    padding-top: 17px;
+    font-size: 12px;
+  }
+  .Mission .text h2{
+    font-size: 23px;
+  }
+  .Mission .text p{
+    padding-top: 17px;
+    font-size: 12px;
+  }
+  .homeGR h1{
+    margin-top: 100px;
+    font-size: 30px;
+  }
+  .homeGR h3{
+    font-size: 16px;
+  }
+  .homeGR h5{
+    font-size: 13px;
+  }
+  .EVENTS .text h2{
+    font-size: 23px;
+  }
+  .EVENTS .text p{
+    padding-top: 17px;
+    font-size: 12px;
+  }
+  
+}
+
+@media screen and (max-width:576px){
+  .header .navbar-brand{
+    font-size: 20px;
+  }
+  .home h1{
+    margin-top: 30px;
+    font-size: 20px;
+  }
+  .home h3 {
+  font-size: 13px;
+  }
+
+  .home h5{
+    font-size: 12px;
+    }
+    .home #btn-1{
+      padding: 5px 15px;
+    }
+    .home #btn-2{
+      padding: 5px 15px;
+    }
+    .homeGR h1{
+      margin-top: 30px;
+      font-size: 20px;
+    }
+    .homeGR h3 {
+    font-size: 13px;
+    }
+  
+    .homeGR h5{
+      font-size: 12px;
+      }
+      .homeGR #btn-1{
+        padding: 5px 15px;
+      }
+      .homeGR #btn-2{
+        padding: 5px 15px;
+      }
+  
+    .black .text p{
+      font-size: 12px
+    }
+    .about .part1 h2{
+      font-size: 10px;
+    }
+    .about .part1 h2{
+      font-size: 10px;
+      padding-top: 40px;
+      padding-right: 10px;
+      margin-right: 10px;
+      
+    }
+    .about p{
+      font-size: 12px;
+      line-height: 19px;
+    }
+
+    .about .text1 h2{
+      font-size: 12px;
+    }
+    .SERVICES .part1 h2{
+      
+      font-size: 13px;
+      padding-top: 40px;
+      padding-right: 10px;
+      margin-right: 10px;
+    }
+    .SERVICES .part1 p{
+      font-size: 12px;
+      line-height: 19px;
+    }
+    .poor .help h2{
+      font-size: 15px;
+    }
+    .poor .help p{
+      font-size: 13px;
+      margin: 20px auto;
+    }
+    .poor .help button{
+      padding: 8px 18px;
+      font-size:  10px;
+    }
+    .CAUSES .text h2{ 
+      font-size: 13px;
+      padding-top: 25px;
+      padding-right: 10px;
+      margin-right: 10px;
+    }
+    .CAUSES .text h2{
+      font-size: 12px;
+      line-height: 19px;
+    }
+    .GALLERY .text h2{ 
+      font-size: 13px;
+      padding-top: 25px;
+      padding-right: 10px;
+      margin-right: 10px;
+    }
+    .GALLERY .text h2{
+      font-size: 12px;
+      line-height: 19px;
+    }
+    .Team .text h2{ 
+      font-size: 16px;
+      padding-top: 25px;
+      padding-right: 10px;
+      margin-right: 10px;
+    }
+    .Team .text h2{
+      font-size: 12px;
+      line-height: 19px;
+    }
+    
+    .EVENT .text h2{ 
+      font-size: 16px;
+      padding-top: 25px;
+      padding-right: 10px;
+      margin-right: 10px;
+    }
+    .EVENT .text h2{
+      font-size: 12px;
+      line-height: 19px;
+    }
+    .EVENT .card #btn1{
+      margin-bottom:20px;
+      margin-left: 20px;
+    }
+    .EVENT .card p{
+      padding-left: 10px;
+    }
+    .EVENT .card h5{
+      padding-left: 10px;
+    }
+    
+    
+    .NEWS .text h2{ 
+      font-size: 16px;
+      padding-top: 25px;
+      padding-right: 10px;
+      margin-right: 10px;
+    }
+    .NEWS .text h2{
+      font-size: 12px;
+      line-height: 19px;
+    }
+    .NEWS .card .txt a{
+      padding-left: 10px;
+    }
+    .NEWS .card .txt h5{
+      font-size: 15px;
+      padding-left: 10px;
+    }
+    .NEWS .card .card-text{
+      font-size: 11px;
+    }
+    .CONTACT{
+      padding: 50px 0px 50px;
+    }
+    .CONTACT .text h2{ 
+      font-size: 13px;
+      padding-top: 25px;
+      padding-right: 10px;
+      margin-right: 10px;
+    }
+    .CONTACT .text h2{
+      font-size: 12px;
+      line-height: 19px;
+    }
+    .footer .text {
+    font-size: 13px;
+    }
+    .footer a{
+      height: 20px;
+      width: 20px;
+    }
+    .Founder .text h2{
+      font-size: 21px;
+    }
+    .Founder .text p{
+      padding-top: 17px;
+      font-size: 10px;
+    }
+    .Mission .text h2{
+      font-size: 21px;
+    }
+    .Mission .text p{
+      padding-top: 17px;
+      font-size: 10px;
+      
+    }
+    .EVENTS .text h2{
+      font-size: 21px;
+    }
+    .EVENTS .text p{
+      padding-top: 17px;
+      font-size: 10px;
+      
+    }
+}
+
+

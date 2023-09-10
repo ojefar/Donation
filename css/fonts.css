@@ -1,0 +1,32 @@
+@font-face {
+  font-family: Roboto-MediumItalic;
+  src: url(../fonts/Roboto-MediumItalic.ttf);
+}
+@font-face {
+  font-family: Roboto-Medium;
+  src: url(../fonts/Roboto-Medium.ttf);
+}
+@font-face {
+  font-family: Roboto-LightItalic;
+  src: url(../fonts/Roboto-LightItalic.ttf);
+}
+@font-face {
+  font-family: Roboto-Light;
+  src: url(../fonts/Roboto-Light.ttf);
+}
+@font-face {
+  font-family: Cabin-SemiBold;
+  src: url(../fonts/Cabin-SemiBold.ttf);
+}
+@font-face {
+  font-family: Cabin-SemiBoldItalic;
+  src: url(../fonts/Cabin-SemiBoldItalic.ttf);
+}
+@font-face {
+  font-family: Cabin_SemiCondensed-Regular;
+  src: url(../fonts/Cabin_SemiCondensed-Regular.ttf);
+}
+@font-face {
+  font-family: Cabin_SemiCondensed-MediumItalic;
+  src: url(../fonts/Cabin_SemiCondensed-MediumItalic.ttf);
+}
